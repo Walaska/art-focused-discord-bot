@@ -1,1 +1,1 @@
-# art-focused-discord-bot
+# Art Focused Discord Bot (Python)
